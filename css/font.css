@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Montserrat_bold';
+    font-weight: bold;
+    src: url(../fonts/ofont.ru_Montserrat_bold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat_regular';
+    font-weight: normal;
+    src: url(../fonts/ofont.ru_Montserrat.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto_regular';
+    font-weight: normal;
+    src: url(../fonts/ofont.ru_Roboto.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto_black';
+    font-weight: bold;
+    src: url(../fonts/ofont.ru_Roboto_bold.ttf);
+}
+
+
+
+
+
+
